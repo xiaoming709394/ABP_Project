@@ -1,0 +1,54 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "Menu:Home": "首页",
+    "Welcome": "欢迎",
+    "LongWelcomeMessage": "欢迎使用本应用程序。这是一个基于 ABP 框架的启动项目。更多信息，请访问 abp.io。",
+    "Menu:BookStore": "Book Store",
+    "Menu:Books": "Books",
+    "Actions": "Actions",
+    "Close": "关闭",
+    "Delete": "删除",
+    "Edit": "编辑",
+    "PublishDate": "Publish date",
+    "NewBook": "New book",
+    "Name": "名称",
+    "Type": "类型",
+    "Price": "价格",
+    "CreationTime": "创建时间",
+    "AreYouSure": "确定?",
+    "AreYouSureToDelete": "你确定删除这一行吗?",
+    "Enum:BookType.Undefined": "Undefined",
+    "Enum:BookType.Adventure": "Adventure",
+    "Enum:BookType.Biography": "Biography",
+    "Enum:BookType.Dystopia": "Dystopia",
+    "Enum:BookType.Fantastic": "Fantastic",
+    "Enum:BookType.Horror": "Horror",
+    "Enum:BookType.Science": "Science",
+    "Enum:BookType.ScienceFiction": "Science fiction",
+    "Enum:BookType.Poetry": "Poetry",
+    "Permission:BookStore": "Book Store",
+    "Permission:Books": "Book Management",
+    "Permission:Books.Create": "Creating new books",
+    "Permission:Books.Edit": "Editing the books",
+    "Permission:Books.Delete": "Deleting the books",
+
+    //Author权限
+    "Permission:Authors": "Author Management",
+    "Permission:Authors.Create": "Creating new authors",
+    "Permission:Authors.Edit": "Editing the authors",
+    "Permission:Authors.Delete": "Deleting the authors",
+
+    "Menu:Authors": "Authors",
+    "Authors": "Authors",
+    "AuthorDeletionConfirmationMessage": "Are you sure to delete the author '{0}'?",
+    "BirthDate": "Birth date",
+    "NewAuthor": "New author",
+
+    //报错提示
+    "BookStore:00001": "There is already an author with the same name: {name}",
+
+    //用户友好提示
+    "AnAuthorIsRequiredForCreatingBook": "An author is required to create a book"
+  }
+}
